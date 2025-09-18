@@ -9,7 +9,7 @@ From AI/ML and embedded design to FPGAs and full-stack apps, this portfolio high
 Hello World! I'm Rehan Bhatti, a Computer Engineering student at the University of Toronto. I have a strong passion for tackling complex challenges through analytical problem-solving and collaborative engineering. I’m particularly interested and experienced in software engineering, AI/ML, FPGAs, and embedded systems, and I’m driven to innovate by building efficient and impactful engineering solutions.
 
 💡 Interests: AI/ML, software systems, embedded systems, OS, FPGAs and computer networks.  
-📫 Contact Me: [LinkedIn](https://www.linkedin.com/in/rehan-bhatti-34a07b233) • [Email](rehan.bhatti@mail.utoronto.ca)
+📫 Contact Me: [LinkedIn](https://www.linkedin.com/in/rehan-bhatti-34a07b233) • **Email**: rehan.bhatti@mail.utoronto.ca
 
 ## 🏆 Featured Projects  
 
