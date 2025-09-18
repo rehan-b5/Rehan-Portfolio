@@ -13,16 +13,16 @@ Hello World! I'm Rehan Bhatti, a Computer Engineering student at the University 
 
 ## 🏆 Featured Projects  
 
-- 🔬 [DermaScope AI](rehan-b5/DermaScope-AI)  
+- 🔬 [DermaScope AI](https://github.com/rehan-b5/DermaScope-AI)  
   AI-powered skin lesion classification platform using EfficientNet-B3 transfer learning and a full-stack web deployment.  
 
-- 📈 [FPGA Stock Market Analyzer](./projects/FPGA-Stock-Market-Analyzer/README.md)  
+- 📈 [FPGA Stock Market Analyzer](https://github.com/rehan-b5/FPGA-Stock-Market-Analyzer) 
   Responsive stock market dashboard on DE1-SoC with interactive VGA analytics, PS2 input, and dynamic scaling algorithms in Assembly and C.  
 
-- 🗺️ [Navigational GIS](./projects/Navigational-GIS/README.md)  
+- 🗺️ [Navigational GIS](https://github.com/rehan-b5/Navigational-GIS)  
   GIS app with OSM API, integrating Dijkstra & A* algorithms for route optimization and interactive map visualization.  
 
-- 🚁 [Navigational Tracking Drone](./projects/Navigational-Tracking-Drone/README.md)  
+- 🚁 [Navigational Tracking Drone](https://github.com/rehan-b5/Route-Tracking-Drone)  
   Embedded drone navigation system with BLE + IR sensor fusion for real-time path tracking and obstacle avoidance.  
 
 ---  
