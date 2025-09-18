@@ -13,7 +13,7 @@ Hello World! I'm Rehan Bhatti, a Computer Engineering student at the University 
 
 ## 🏆 Featured Projects  
 
-- 🔬 [DermaScope AI](./DermaScope-AI/README.md)  
+- 🔬 [DermaScope AI](rehan-b5/DermaScope-AI)  
   AI-powered skin lesion classification platform using EfficientNet-B3 transfer learning and a full-stack web deployment.  
 
 - 📈 [FPGA Stock Market Analyzer](./projects/FPGA-Stock-Market-Analyzer/README.md)  
